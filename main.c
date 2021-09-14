@@ -2,7 +2,7 @@
 
 #include "main.h"
 
-#creating problem11 naaaa
+#creating probl naaaa
 
 
 int main(int argc, char *argv[])
